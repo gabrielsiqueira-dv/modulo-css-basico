@@ -1,0 +1,9 @@
+p{
+   margin: 30px 15px;
+   padding:10px;
+   border: solid 20px ;
+}
+h1{
+   border: solid 20px;
+    border-color: green  yellow darkblue pink;
+}
